@@ -1,0 +1,7 @@
+C:\Users\Dumi\Desktop\Rim\RimWorld\Mods\MOD_AI\Assemblies\MOD_AI.dll
+C:\Users\Dumi\Desktop\Rim\RimWorld\Mods\MOD_AI\Assemblies\MOD_AI.pdb
+C:\Users\Dumi\Desktop\Rim\RimWorld\Mods\MOD_AI\Source\MOD_AI\MOD_AI\MOD_AI\obj\Debug\MOD_AI.csproj.AssemblyReference.cache
+C:\Users\Dumi\Desktop\Rim\RimWorld\Mods\MOD_AI\Source\MOD_AI\MOD_AI\MOD_AI\obj\Debug\MOD_AI.csproj.CoreCompileInputs.cache
+C:\Users\Dumi\Desktop\Rim\RimWorld\Mods\MOD_AI\Source\MOD_AI\MOD_AI\MOD_AI\obj\Debug\MOD_AI.csproj.Up2Date
+C:\Users\Dumi\Desktop\Rim\RimWorld\Mods\MOD_AI\Source\MOD_AI\MOD_AI\MOD_AI\obj\Debug\MOD_AI.dll
+C:\Users\Dumi\Desktop\Rim\RimWorld\Mods\MOD_AI\Source\MOD_AI\MOD_AI\MOD_AI\obj\Debug\MOD_AI.pdb

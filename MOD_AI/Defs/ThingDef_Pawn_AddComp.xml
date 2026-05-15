@@ -1,0 +1,7 @@
+<Defs>
+  <ThingDef ParentName="Human">
+    <comps>
+    <li Class="MOD_AI.CompProperties_CombatAnalyzer" />
+    </comps>
+  </ThingDef>
+</Defs>
