@@ -53,15 +53,21 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
-    <Compile Include="Class2.cs" />
+    <Compile Include="JobGiver_BurnStructures.cs" />
+    <Compile Include="JobGiver_MeleeRush.cs" />
+    <Compile Include="JobGiver_RetreatIfCriticallyInjured.cs" />
     <Compile Include="Init.cs" />
+    <Compile Include="JobGiver_SquadTactics.cs" />
+    <Compile Include="JobGiver_TargetPowerGenerators.cs" />
     <Compile Include="Patch_FightEnemy.cs" />
     <Compile Include="CombatDecisionUtility.cs" />
     <Compile Include="CompProperties.cs" />
+    <Compile Include="Patch_PawnsArrivalModeWorker.cs" />
     <Compile Include="Patch_Shoot.cs" />
     <Compile Include="CompPawnCombatAnalyzer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RaidSquadManager.cs" />
+    <Compile Include="ThinkNode_TacticalEvaluation.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

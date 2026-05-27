@@ -10,11 +10,14 @@ namespace MOD_AI
 {
     public class CompPawnCombatAnalyzer : ThingComp
     {
-        public int shotsFired;
-        public int shotsHit;
-        public int ticksIdle;
+        // -------------------------
+        // PROPRIETĂȚILE TALE EXISTENTE 
+        // (presupunând pe baza felului cum funcționează restul codului)
+        // -------------------------
+        public int shotsFired = 0;
+        public int shotsHit = 0;
 
-        public float Accuracy
+        public float Accuracy 
         {
             get
             {
@@ -23,17 +26,51 @@ namespace MOD_AI
             }
         }
 
+        // -------------------------
+        // LOGICA NOUĂ PENTRU TIMP INACTIV
+        // -------------------------
+        // O valoare mică default pentru a nu confunda sistemul la start
+        public int lastAttackTick = -99999; 
+
+        // Această metodă este apelată automat de RimWorld în fiecare tick al colonistului
         public override void CompTick()
         {
             base.CompTick();
-
-            if (parent is Pawn pawn)
+            
+            Pawn pawn = parent as Pawn;
+            if (pawn != null && pawn.stances != null)
             {
-                if (pawn.stances?.curStance == null)
+                // Verificăm dacă pionul tocmai țintește(Warmup), e gata să tragă sau recuperează
+                if (pawn.stances.curStance is Stance_Warmup || pawn.stances.curStance is Stance_Cooldown)
                 {
-                    ticksIdle++;
+                    // Salvăm tick-ul momentului. Cât timp trage, diferența e mereu 0.
+                    lastAttackTick = Find.TickManager.TicksGame;
                 }
             }
+        }
+
+        // Returnează valoarea cerută de CombatDecisionUtility
+        public float SecondsSinceLastAttack 
+        {
+            get 
+            {
+                // Pentru raționament la prima trezire, considerăm că au stătut o eternitate (100 secunde)
+                if (lastAttackTick < 0) return 100f; 
+
+                int tickDifference = Find.TickManager.TicksGame - lastAttackTick;
+                
+                // RimWorld rulează în medie 60 ticks per secundă reală (la viteză normală 1x)
+                return tickDifference / 60f; 
+            }
+        }
+
+        // Trebuie să salvăm tick-ul când salvăm jocul, altfel la Load se va reseta la -99999
+        public override void PostExposeData()
+        {
+            base.PostExposeData();
+            Scribe_Values.Look(ref shotsFired, "shotsFired", 0);
+            Scribe_Values.Look(ref shotsHit, "shotsHit", 0);
+            Scribe_Values.Look(ref lastAttackTick, "lastAttackTick", -99999);
         }
     }
 }

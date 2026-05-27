@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <ThinkTreeDef>
+    <defName>MOD_AI_CustomRaidThinkTree</defName>
+    <thinkRoot Class="ThinkNode_Priority">
+      <subNodes>
+        
+        <!-- ============================== -->
+        <!-- 1. SURVIVAL LAYER (Highest Priority) -->
+        <!-- ============================== -->
+        <li Class="ThinkNode_Priority">
+          <subNodes>
+            <li Class="JobGiver_ExtinguishSelf" />
+          </subNodes>
+        </li>
+
+        <!-- ============================== -->
+        <!-- SQUAD & TACTICAL LAYER -->
+        <!-- ============================== -->
+        <li Class="ThinkNode_Priority">
+          <subNodes>
+            <li Class="MOD_AI.JobGiver_SquadTactics" />
+            
+            <li Class="JobGiver_AIFightEnemies">
+              <targetAcquireRadius>65</targetAcquireRadius>
+              <targetKeepRadius>72</targetKeepRadius>
+            </li>
+          </subNodes>
+        </li>
+
+        <!-- ============================== -->
+        <!-- OPPORTUNISTIC LAYER -->
+        <!-- ============================== -->
+        <li Class="ThinkNode_Priority">
+          <subNodes>
+            <li Class="JobGiver_Kidnap" />               
+            
+            <!-- Inamicii atacă generatoarele și bateriile! -->
+            <li Class="MOD_AI.JobGiver_TargetPowerGenerators" /> 
+            
+            <li Class="JobGiver_Steal" />         
+            
+            <!-- Inamicii dau foc lemnului și recoltelor -->
+            <li Class="MOD_AI.JobGiver_BurnStructures" />
+            
+            <li Class="JobGiver_AITrashColonyClose" /> 
+            
+          </subNodes>
+        </li>
+      </subNodes>
+    </thinkRoot>
+  </ThinkTreeDef>
+</Defs>

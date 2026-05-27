@@ -28,14 +28,16 @@ namespace MOD_AI
             if (__result)
                 comp.shotsHit++;
 
-            bool spaming = comp.shotsFired % 10 != 0;
+            // Afișăm logul o dată la fiecare 10 secvențe de trageri, nu la fiecare glonț.
+            // Schimbăm '!=' în '==' pentru a se afișa doar când numărul este multiplu de 10.
+            bool shouldLog = comp.shotsFired % 10 == 0;
 
-            if (spaming)
+            if (shouldLog)
             {
-                Log.Message($"Accuracy: {comp.Accuracy}");
+                Log.Message($"[MOD_AI] Tinta: {target.LabelShort}. S-au inregistrat {comp.shotsFired} focuri. Acuratete: {comp.Accuracy}");
             }
-                Log.Message("[MOD_AI] Shoot patch triggered");
 
+            // Am eliminat linia Log.Message care declanșa spam de fiecare dată!
         }
     }
 }

@@ -3,36 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|c:\\users\\dumi\\desktop\\rim\\rimworld\\mods\\mod_ai\\source\\mod_ai\\mod_ai\\mod_ai\\comppawncombatanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|solutionrelative:mod_ai\\comppawncombatanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\mod_ai\\combatdecisionutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|solutionrelative:mod_ai\\combatdecisionutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|c:\\users\\dumi\\desktop\\rim\\rimworld\\mods\\mod_ai\\source\\mod_ai\\mod_ai\\mod_ai\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|solutionrelative:mod_ai\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\mod_ai\\compproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|solutionrelative:mod_ai\\compproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\mod_ai\\patch_fightenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|solutionrelative:mod_ai\\patch_fightenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\mod_ai\\patch_shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|c:\\users\\dumi\\desktop\\rim\\rimworld\\mods\\mod_ai\\source\\mod_ai\\mod_ai\\mod_ai\\patch_shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|solutionrelative:mod_ai\\patch_shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\mod_ai\\patch_pawnsarrivalmodeworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|solutionrelative:mod_ai\\patch_pawnsarrivalmodeworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\mod_ai\\comppawncombatanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|solutionrelative:mod_ai\\comppawncombatanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\mod_ai\\raidsquadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|solutionrelative:mod_ai\\raidsquadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\mod_ai\\jobgiver_retreatifcriticallyinjured.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|solutionrelative:mod_ai\\jobgiver_retreatifcriticallyinjured.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\mod_ai\\jobgiver_squadtactics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|solutionrelative:mod_ai\\jobgiver_squadtactics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\mod_ai\\jobgiver_targetpowergenerators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|solutionrelative:mod_ai\\jobgiver_targetpowergenerators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\mod_ai\\jobgiver_burnstructures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|solutionrelative:mod_ai\\jobgiver_burnstructures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\mod_ai\\thinknode_tacticalevaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|solutionrelative:mod_ai\\thinknode_tacticalevaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\mod_ai\\init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|solutionrelative:mod_ai\\init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\mod_ai\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|solutionrelative:mod_ai\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\mod_ai\\patch_fightenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|solutionrelative:mod_ai\\patch_fightenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\mod_ai\\jobgiver_meleerush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|solutionrelative:mod_ai\\jobgiver_meleerush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\mod_ai\\compproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC91A86-4224-4AD6-A0D1-E822BA7DB8BD}|MOD_AI\\MOD_AI.csproj|solutionrelative:mod_ai\\compproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,74 +66,145 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class2.cs",
-              "DocumentMoniker": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\Class2.cs",
-              "RelativeDocumentMoniker": "MOD_AI\\Class2.cs",
-              "ToolTip": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\Class2.cs",
-              "RelativeToolTip": "MOD_AI\\Class2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T20:14:08.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CompPawnCombatAnalyzer.cs",
-              "DocumentMoniker": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\CompPawnCombatAnalyzer.cs",
-              "RelativeDocumentMoniker": "MOD_AI\\CompPawnCombatAnalyzer.cs",
-              "ToolTip": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\CompPawnCombatAnalyzer.cs",
-              "RelativeToolTip": "MOD_AI\\CompPawnCombatAnalyzer.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAswA4AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T14:16:04.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Patch_Shoot.cs",
-              "DocumentMoniker": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\Patch_Shoot.cs",
-              "RelativeDocumentMoniker": "MOD_AI\\Patch_Shoot.cs",
-              "ToolTip": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\Patch_Shoot.cs",
-              "RelativeToolTip": "MOD_AI\\Patch_Shoot.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAUwCMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T14:18:27.31Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "CombatDecisionUtility.cs",
               "DocumentMoniker": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\CombatDecisionUtility.cs",
               "RelativeDocumentMoniker": "MOD_AI\\CombatDecisionUtility.cs",
               "ToolTip": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\CombatDecisionUtility.cs",
               "RelativeToolTip": "MOD_AI\\CombatDecisionUtility.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-05T15:01:13.227Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CompProperties.cs",
-              "DocumentMoniker": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\CompProperties.cs",
-              "RelativeDocumentMoniker": "MOD_AI\\CompProperties.cs",
-              "ToolTip": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\CompProperties.cs",
-              "RelativeToolTip": "MOD_AI\\CompProperties.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBEAAAABAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "JobGiver_BurnStructures.cs",
+              "DocumentMoniker": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\JobGiver_BurnStructures.cs",
+              "RelativeDocumentMoniker": "MOD_AI\\JobGiver_BurnStructures.cs",
+              "ToolTip": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\JobGiver_BurnStructures.cs",
+              "RelativeToolTip": "MOD_AI\\JobGiver_BurnStructures.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T14:52:19.477Z"
+              "WhenOpened": "2026-05-26T12:03:43.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Patch_PawnsArrivalModeWorker.cs",
+              "DocumentMoniker": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\Patch_PawnsArrivalModeWorker.cs",
+              "RelativeDocumentMoniker": "MOD_AI\\Patch_PawnsArrivalModeWorker.cs",
+              "ToolTip": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\Patch_PawnsArrivalModeWorker.cs",
+              "RelativeToolTip": "MOD_AI\\Patch_PawnsArrivalModeWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T14:24:25.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Patch_Shoot.cs",
+              "DocumentMoniker": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\Patch_Shoot.cs",
+              "RelativeDocumentMoniker": "MOD_AI\\Patch_Shoot.cs",
+              "ToolTip": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\Patch_Shoot.cs",
+              "RelativeToolTip": "MOD_AI\\Patch_Shoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T14:18:27.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobGiver_RetreatIfCriticallyInjured.cs",
+              "DocumentMoniker": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\JobGiver_RetreatIfCriticallyInjured.cs",
+              "RelativeDocumentMoniker": "MOD_AI\\JobGiver_RetreatIfCriticallyInjured.cs",
+              "ToolTip": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\JobGiver_RetreatIfCriticallyInjured.cs",
+              "RelativeToolTip": "MOD_AI\\JobGiver_RetreatIfCriticallyInjured.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:13:33.83Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "RaidSquadManager.cs",
+              "DocumentMoniker": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\RaidSquadManager.cs",
+              "RelativeDocumentMoniker": "MOD_AI\\RaidSquadManager.cs",
+              "ToolTip": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\RaidSquadManager.cs",
+              "RelativeToolTip": "MOD_AI\\RaidSquadManager.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T14:04:14.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompPawnCombatAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\CompPawnCombatAnalyzer.cs",
+              "RelativeDocumentMoniker": "MOD_AI\\CompPawnCombatAnalyzer.cs",
+              "ToolTip": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\CompPawnCombatAnalyzer.cs",
+              "RelativeToolTip": "MOD_AI\\CompPawnCombatAnalyzer.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T14:16:04.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobGiver_SquadTactics.cs",
+              "DocumentMoniker": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\JobGiver_SquadTactics.cs",
+              "RelativeDocumentMoniker": "MOD_AI\\JobGiver_SquadTactics.cs",
+              "ToolTip": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\JobGiver_SquadTactics.cs",
+              "RelativeToolTip": "MOD_AI\\JobGiver_SquadTactics.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAAcwOIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T14:06:34.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobGiver_TargetPowerGenerators.cs",
+              "DocumentMoniker": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\JobGiver_TargetPowerGenerators.cs",
+              "RelativeDocumentMoniker": "MOD_AI\\JobGiver_TargetPowerGenerators.cs",
+              "ToolTip": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\JobGiver_TargetPowerGenerators.cs",
+              "RelativeToolTip": "MOD_AI\\JobGiver_TargetPowerGenerators.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T12:02:41.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ThinkNode_TacticalEvaluation.cs",
+              "DocumentMoniker": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\ThinkNode_TacticalEvaluation.cs",
+              "RelativeDocumentMoniker": "MOD_AI\\ThinkNode_TacticalEvaluation.cs",
+              "ToolTip": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\ThinkNode_TacticalEvaluation.cs",
+              "RelativeToolTip": "MOD_AI\\ThinkNode_TacticalEvaluation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:14:29.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Init.cs",
+              "DocumentMoniker": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\Init.cs",
+              "RelativeDocumentMoniker": "MOD_AI\\Init.cs",
+              "ToolTip": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\Init.cs",
+              "RelativeToolTip": "MOD_AI\\Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T15:16:55.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Patch_FightEnemy.cs",
               "DocumentMoniker": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\Patch_FightEnemy.cs",
               "RelativeDocumentMoniker": "MOD_AI\\Patch_FightEnemy.cs",
@@ -121,27 +216,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Init.cs",
-              "DocumentMoniker": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\Init.cs",
-              "RelativeDocumentMoniker": "MOD_AI\\Init.cs",
-              "ToolTip": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\Init.cs",
-              "RelativeToolTip": "MOD_AI\\Init.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "JobGiver_MeleeRush.cs",
+              "DocumentMoniker": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\JobGiver_MeleeRush.cs",
+              "RelativeDocumentMoniker": "MOD_AI\\JobGiver_MeleeRush.cs",
+              "ToolTip": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\JobGiver_MeleeRush.cs",
+              "RelativeToolTip": "MOD_AI\\JobGiver_MeleeRush.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T15:16:55.561Z"
+              "WhenOpened": "2026-05-25T12:15:07.709Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\Class1.cs",
-              "RelativeDocumentMoniker": "MOD_AI\\Class1.cs",
-              "ToolTip": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\Class1.cs",
-              "RelativeToolTip": "MOD_AI\\Class1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "CompProperties.cs",
+              "DocumentMoniker": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\CompProperties.cs",
+              "RelativeDocumentMoniker": "MOD_AI\\CompProperties.cs",
+              "ToolTip": "C:\\Users\\Dumi\\Desktop\\Rim\\RimWorld\\Mods\\MOD_AI\\Source\\MOD_AI\\MOD_AI\\MOD_AI\\CompProperties.cs",
+              "RelativeToolTip": "MOD_AI\\CompProperties.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T13:57:17.857Z"
+              "WhenOpened": "2026-05-05T14:52:19.477Z"
             }
           ]
         }
